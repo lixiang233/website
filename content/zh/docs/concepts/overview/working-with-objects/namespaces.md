@@ -39,7 +39,7 @@ teams, or projects.  For clusters with a few to tens of users, you should not
 need to create or think about namespaces at all.  Start using namespaces when you
 need the features they provide. 
 -->
-命名空间适用于存在很多跨多个团队或项目的用户的场景。对于只有几到几十个用户的集群，根本不需要创建或考虑命名空间。当需要名称空间提供的功能时，请开始使用它们。
+命名空间适用于存在很多跨多个团队或项目的用户的场景。对于只有几到几十个用户的集群，根本不需要创建或考虑命名空间。请在需要命名空间提供的功能时开始使用它们。
 
 <!--
 Namespaces provide a scope for names.  Names of resources need to be unique within a namespace,
